@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋! I'm Sergei Kornilov</h1>
-<h3 align="center">A Backend Java developer!</h3>
+<h3 align="center">A Team Lead and Backend Java developer!</h3>
 
 I love programming! And I especially like Java. In my free time I do my pet projects, teach people how to develop software and play computer games 🎮.
 
