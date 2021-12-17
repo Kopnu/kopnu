@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋! I'm Sergei Kornilov</h1>
+<h1 align="center">Hi 👋! I'm Sergei Kornilov</h1>
 <h3 align="center">A Team Lead and Backend Java developer!</h3>
 
 I love programming! And I especially like Java. In my free time I do my pet projects, teach people how to develop software and play computer games 🎮.
 
 * 🔸 Now I started working on [Spring Boot Starter for JDA](https://github.com/Kopnu/spring-boot-starter-jda)
-* 🔹 Sometimes I work on my site. But now it is in a private repository.
+* 🔹 Sometimes I work on my site. 
 
 <h3 align="left">Some languages and technologies I know and use:</h3>
 
