@@ -36,3 +36,7 @@ I love programming! And I especially like Java. In my free time I do my pet proj
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kopnu&show_icons=true&theme=dark&locale=en" alt="kopnu" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kopnu&show_icons=true&theme=dark&locale=en&layout=compact" alt="kopnu"/></p>
+
+<br><br><br><br><br><br>
+
+See also: [kopnu.github.io](https://kopnu.github.io)
