@@ -31,9 +31,9 @@ I love programming! And I especially like Java. In my free time I do my pet proj
     <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" alt="the best tool - google" width="40" height="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kopnu" alt="kopnu" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kopnu" alt="kopnu" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kopnu&show_icons=true&theme=dark&locale=en" alt="kopnu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kopnu&show_icons=true&theme=dark&locale=en" alt="kopnu" /></p>-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kopnu&show_icons=true&theme=dark&locale=en&layout=compact" alt="kopnu"/></p>
 
