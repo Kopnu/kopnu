@@ -15,6 +15,7 @@ I love programming! And I especially like Java. In my free time I do my pet proj
     <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"alt="kubernetes" width="40" height="40" /></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"alt="apachekafka" width="40" height="40" /></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"alt="postgresql" width="40" height="40" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"alt="docker" width="40" height="40" /></a>
 </p>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="javascript" width="40" height="40" /></a>
