@@ -3,7 +3,8 @@
 
 I love programming! And I especially like Java. In my free time I do my pet projects, teach people how to develop software and play computer games 🎮.
 
-* 🔸 Now I started working on [Spring Boot Starter for JDA](https://github.com/Kopnu/spring-boot-starter-jda)
+* 🔸 Now I started working on [Manipulator4J](https://github.com/Kopnu/manipulator4j-core) a simple DI container
+* 🔸 And [Spring Boot Starter for JDA](https://github.com/Kopnu/spring-boot-starter-jda)
 * 🔹 Sometimes I work on my site. 
 
 <h3 align="left">Some languages and technologies I know and use:</h3>
